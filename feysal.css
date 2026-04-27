@@ -1,0 +1,18 @@
+body{
+    background-color:skyblue;
+    font-size: medium;
+}
+main{
+    color: rgb(82, 82, 211);
+    font-size: medium;
+}
+nav{
+    text-decoration: none;
+}
+h1{
+    color: rgb(85, 85, 201);
+    font-size: medium;
+}
+footer{
+    background-color: rgb(162, 49, 49);
+}
